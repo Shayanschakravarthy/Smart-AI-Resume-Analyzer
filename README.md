@@ -58,7 +58,7 @@
       <a href="https://www.linkedin.com/in/Shayan-S-Chakravarthy-456076214/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Shayan S Chakravarthy</a>
      </small>
   </p>
-  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree BCA at 
+  <small align="justify"><img src="https://github.com/user-attachments/assets/76906dbc-343d-4267-ace5-048d428fff42" width="20px"> A Project Submitted for the partial fulfilment of the degree MCA at 
     <a href="https://bangaloreuniversity.karnataka.gov.in/">Bangalore University</a> during academic year 2024-25
   </small>
 </div><br/><br/>
